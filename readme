@@ -1,6 +1,7 @@
 
+本次对应pyecharts版本：1.5
+
 '''
-本次版本1.5
 要记得安装对应的地图拓展：
 $ pip install echarts-countries-pypkg
 $ pip install echarts-china-provinces-pypkg
