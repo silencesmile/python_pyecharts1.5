@@ -1,0 +1,16 @@
+
+'''
+本次版本1.5
+要记得安装对应的地图拓展：
+$ pip install echarts-countries-pypkg
+$ pip install echarts-china-provinces-pypkg
+$ pip install echarts-china-cities-pypkg
+$ pip install echarts-china-counties-pypkg
+$ pip install echarts-china-misc-pypkg
+$ pip install echarts-united-kingdom-pypkg
+'''
+
+生成图片：
+$ pip install snapshot-selenium
+或
+$ pip install snapshot-phantomjs
